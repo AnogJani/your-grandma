@@ -1,0 +1,16 @@
+h1 {
+    color:coral;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+body {
+    background-color: rgb(72, 26, 124);
+    color:chartreuse;
+    box-shadow: 0 0 0 0 16px black;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
